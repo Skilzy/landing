@@ -1,0 +1,10 @@
+#banner{
+	height: 70vh;
+	background-image: url("../image/overwatch-header.webp");
+	background-size: cover; 
+	color: white;
+	display: flex;
+	flex-direction: column; 
+	justify-content: center;
+	align-items: center ;
+ }
